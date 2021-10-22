@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+How I change the Gutenburg theme
+================================
+1.Make the fonts of every part different.
+2.Change the background color.
+3.Add a black box to the cover.
+4.Indent the beginning of a paragraph.
+5.Change to color of the links to each chapter.
+
 
