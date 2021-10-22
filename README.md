@@ -19,9 +19,12 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
-Code is licensed under the Apache 2.0 license.
+Code is copyright Dazhi Zhang (C) 2021 under the Apache 2.0 license. No one is allowed to use the photo unless granted.
 
-How I change the Gutenburg theme
+Gutenberg project: The Irish Penny Journal, Vol.1 No.10, September 5, 1840 by Various: http://www.gutenberg.org/ebooks/54156
+
+
+Changes in part 1
 ================================
 1.Make the fonts of every part different.
 
